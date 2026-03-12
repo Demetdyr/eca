@@ -1,0 +1,15 @@
+[submodule "e-commerce-app"]
+	path = e-commerce-app
+	url = https://github.com/Demetdyr/e-commerce-app
+[submodule "eca-inventory-api"]
+	path = eca-inventory-api
+	url = https://github.com/Demetdyr/eca-inventory-api
+[submodule "eca-order-api"]
+	path = eca-order-api
+	url = https://github.com/Demetdyr/eca-order-api
+[submodule "eca-product-api"]
+	path = eca-product-api
+	url = https://github.com/Demetdyr/eca-product-api
+[submodule "eca-ui"]
+	path = eca-ui
+	url = https://github.com/Demetdyr/eca-ui
